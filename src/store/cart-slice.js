@@ -40,3 +40,4 @@ const cartSlice = createSlice({
 export const cartActions = cartSlice.actions
 
 export default cartSlice
+// 리듀서 내부에서 동기,비동기를 수행하지말것
